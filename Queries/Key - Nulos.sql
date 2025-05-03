@@ -1,0 +1,1 @@
+SELECT count(*) FROM `projeto-2-spotify-457006.Spotify.Informações Técnicas` WHERE key IS NULL

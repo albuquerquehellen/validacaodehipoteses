@@ -1,0 +1,1 @@
+SELECT * FROM `projeto-2-spotify-457006.Spotify.Competição` WHERE in_shazam_charts IS NULL
